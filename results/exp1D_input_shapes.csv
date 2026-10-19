@@ -1,0 +1,6 @@
+input shape,comparisons,seconds
+random,1536245,0.65925
+already sorted,815024,0.50164
+reverse sorted,853904,0.50706
+all equal,815024,0.53042
+few distinct (5 values),1413132,0.61308
